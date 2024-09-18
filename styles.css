@@ -14,3 +14,11 @@ button{
     color:aqua;
     font-family: "Sofadi One", system-ui;
 }
+
+.passo{
+    display:nome;
+}
+
+.passo.ativo{
+    display: block;
+}
